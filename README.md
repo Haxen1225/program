@@ -1,2 +1,2 @@
-# some-program
+# program
 For transfer
